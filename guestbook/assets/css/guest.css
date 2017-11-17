@@ -1,0 +1,14 @@
+td  {
+    font-size: 11px;
+    color: #333;
+}
+
+.loading-div {
+
+    display: none;
+}
+
+.loading-div img {
+    margin-top: 20%;
+    margin-left: 50%;
+}
